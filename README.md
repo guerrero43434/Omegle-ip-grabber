@@ -35,3 +35,4 @@ open video chat and ips will start flowing in
 
 ## A word 
 it is not my falult if you get in trouble practice cyber safty
+the ip locator i use is https://tools.keycdn.com/geo?host=
