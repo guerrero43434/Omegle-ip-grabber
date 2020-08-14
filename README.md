@@ -30,3 +30,5 @@ open video chat and ips will start flowing in
 *bonus if the ip has a circle with an number 2 in the middle that means they have a VPN
 ![Screenshot 2020-08-13 at 9 31 09 PM](https://user-images.githubusercontent.com/67981768/90214084-521d8080-ddac-11ea-8dc7-51608117c45d.png)
 
+## A word 
+it is not my falult if you get in trouble practice cyber safty
