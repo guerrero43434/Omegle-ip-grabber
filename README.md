@@ -25,10 +25,13 @@ the console will spit back nothing that is good but do not close the inspect ele
 
 step 6 
 open video chat and ips will start flowing in
-![Screenshot 2020-08-13 at 9 27 45 PM](https://user-images.githubusercontent.com/67981768/90213921-dde2dd00-ddab-11ea-9fdb-ebceed13da38.png)
+![step 6 ](https://user-images.githubusercontent.com/67981768/90214415-3d8db800-ddad-11ea-8fc4-2ba7c9addf7b.png)
+
 
 *bonus if the ip has a circle with an number 2 in the middle that means they have a VPN
-![Screenshot 2020-08-13 at 9 31 09 PM](https://user-images.githubusercontent.com/67981768/90214084-521d8080-ddac-11ea-8dc7-51608117c45d.png)
+![bonus](https://user-images.githubusercontent.com/67981768/90214366-1636eb00-ddad-11ea-8917-b9085a36128a.png)
+
+
 
 ## A word 
 it is not my falult if you get in trouble practice cyber safty
